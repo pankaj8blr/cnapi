@@ -1,4 +1,4 @@
-# CondeNast News Stories App Demo
+## cnapi
 
 This demo is a FullStack sample application which I created as part of code challenge assigned by CondeNast
 
